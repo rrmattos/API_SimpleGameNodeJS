@@ -18,3 +18,6 @@ Rename the ".env_example" file to ".env" and update the following information in
     PASS_SENDER="some_pass"             // Gmail password
 
 The last two items refer to the email used to notify users/players who forget their password and request a reset. You don't need to update these if you don't want to test this feature, but if you do, it must be a Gmail account and the email address must be real. You'll need to configure this account to allow interaction with external APIs.
+
+EMAIL SENDER EXAMPLE:
+![api_ui](https://github.com/rrmattos/API_SimpleGameNodeJS/assets/64109925/44d200c4-cddf-4aa2-8cb8-e1f52539d3f1)
